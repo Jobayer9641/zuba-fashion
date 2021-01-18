@@ -1,0 +1,53 @@
+.page-title1{
+    font-family: 'Bebas Neue', cursive;
+    color: #f7b53b;
+    font-size: 70px;
+}
+.page-title2{
+    font-family: 'Bebas Neue', cursive;
+    color: #232652;
+    font-size: 70px;
+}
+.page-title3{
+    font-family: 'Bebas Neue', cursive;
+    color: #232652;
+    font-size: 50px;
+}
+.page-title4{
+    font-family: 'Bebas Neue', cursive;
+    color: #f7b53b;
+    font-size: 40px;
+}
+.but{
+    width: 150px;
+    height: 60px;
+    font-size: 23px;
+}
+.but img{
+    width: 20%;
+    padding-left: 0;
+    padding-right: 0;
+
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.penguine-card{
+    border: 0;
+}
+.penguine-card-footer{
+    background-color: white;
+    border: 0;
+}
+.img-golmal{
+    height: 500px;
+}
+.larger{
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(20, 20, 48);
+}
+.removal-of-border{
+    border: 0;
+}
